@@ -1,5 +1,5 @@
 # SmartBudgetManager 
-
+this is the edited version and i'm writing it rn
 ## Overview
 SmartBudgetManager is a simple budget management project designed to organize and track financial records. It provides a structured way to store budget information, monitor recorded amounts, and keep financial data organized.
 
